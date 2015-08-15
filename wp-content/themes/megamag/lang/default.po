@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MEGAMAG v1.1\n"
+"POT-Creation-Date: 2013-01-21 18:20+0100\n"
+"PO-Revision-Date: 2013-01-21 18:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: Boostdevelopers <boostdevelopers@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././archive_template.php:11
+msgid "Browsing Category"
+msgstr ""
+
+#: .././archive_template.php:15
+msgid "Browsing Tag"
+msgstr ""
+
+#: .././archive_template.php:19
+msgid "Search Results For"
+msgstr ""
+
+#: .././archive_template.php:23
+msgid "Browsing Author"
+msgstr ""
+
+#: .././archive_template.php:27
+msgid "Browsing"
+msgstr ""
+
+#: .././archive_template.php:28
+msgid "Unknown"
+msgstr ""
+
+#: .././archive_template.php:59 .././inc/template_blog.php:22
+#: .././inc/template_main_1_column.php:27
+#: .././inc/widget_megamag_main_2column.php:65
+#: .././inc/widget_megamag_main_2column.php:160
+msgid "Score"
+msgstr ""
+
+#: .././archive_template.php:75 .././inc/template_blog.php:38
+#: .././inc/template_main_1_column.php:44
+#: .././inc/widget_megamag_main_2column.php:82
+#: .././inc/widget_megamag_main_2column.php:176
+msgid "Read More"
+msgstr ""
+
+#: .././comments.php:7
+msgid "No comments"
+msgstr ""
+
+#: .././comments.php:7
+msgid "1 Comment"
+msgstr ""
+
+#: .././comments.php:7 .././inc/widget_megamag_nomain_sidebar_tab.php:22
+msgid "Comments"
+msgstr ""
+
+#: .././fullwidth.php:50 .././page.php:45 .././single.php:150
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: .././functions.php:270
+msgid "Edit"
+msgstr ""
+
+#: .././functions.php:271
+msgid "Reply"
+msgstr ""
+
+#: .././functions.php:276 .././inc/widget_megamag_nomain_sidebar_tab.php:21
+msgid "Popular"
+msgstr ""
+
+#: .././searchform.php:3 .././inc/widget_megamag_nomain_sidebar_search.php:5
+msgid "Search here..."
+msgstr ""
+
+#: .././single.php:91 .././inc/widget_megamag_nomain_sidebar_tab.php:23
+msgid "Tags"
+msgstr ""
+
+#: .././single.php:124
+msgid "About the Author"
+msgstr ""
+
+#: .././inc/functions_custom.php:158
+msgid "January"
+msgstr ""
+
+#: .././inc/functions_custom.php:159
+msgid "February"
+msgstr ""
+
+#: .././inc/functions_custom.php:160
+msgid "March"
+msgstr ""
+
+#: .././inc/functions_custom.php:161
+msgid "April"
+msgstr ""
+
+#: .././inc/functions_custom.php:162 .././inc/functions_custom.php:175
+msgid "May"
+msgstr ""
+
+#: .././inc/functions_custom.php:163
+msgid "June"
+msgstr ""
+
+#: .././inc/functions_custom.php:164
+msgid "July"
+msgstr ""
+
+#: .././inc/functions_custom.php:165
+msgid "August"
+msgstr ""
+
+#: .././inc/functions_custom.php:166
+msgid "September"
+msgstr ""
+
+#: .././inc/functions_custom.php:167
+msgid "October"
+msgstr ""
+
+#: .././inc/functions_custom.php:168
+msgid "November"
+msgstr ""
+
+#: .././inc/functions_custom.php:169
+msgid "December"
+msgstr ""
+
+#: .././inc/functions_custom.php:171
+msgid "Jan"
+msgstr ""
+
+#: .././inc/functions_custom.php:172
+msgid "Feb"
+msgstr ""
+
+#: .././inc/functions_custom.php:173
+msgid "Mar"
+msgstr ""
+
+#: .././inc/functions_custom.php:174
+msgid "Apr"
+msgstr ""
+
+#: .././inc/functions_custom.php:176
+msgid "Jun"
+msgstr ""
+
+#: .././inc/functions_custom.php:177
+msgid "Jul"
+msgstr ""
+
+#: .././inc/functions_custom.php:178
+msgid "Aug"
+msgstr ""
+
+#: .././inc/functions_custom.php:179
+msgid "Sep"
+msgstr ""
+
+#: .././inc/functions_custom.php:180
+msgid "Oct"
+msgstr ""
+
+#: .././inc/functions_custom.php:181
+msgid "Nov"
+msgstr ""
+
+#: .././inc/functions_custom.php:182
+msgid "Dec"
+msgstr ""
+
+#: .././inc/functions_custom.php:184
+msgid "Monday"
+msgstr ""
+
+#: .././inc/functions_custom.php:185
+msgid "Tuesday"
+msgstr ""
+
+#: .././inc/functions_custom.php:186
+msgid "Wednesday"
+msgstr ""
+
+#: .././inc/functions_custom.php:187
+msgid "Thursday"
+msgstr ""
+
+#: .././inc/functions_custom.php:188
+msgid "Friday"
+msgstr ""
+
+#: .././inc/functions_custom.php:189
+msgid "Saturday"
+msgstr ""
+
+#: .././inc/functions_custom.php:190
+msgid "Sunday"
+msgstr ""
+
+#: .././inc/functions_custom.php:192
+msgid "Mon"
+msgstr ""
+
+#: .././inc/functions_custom.php:193
+msgid "Tue"
+msgstr ""
+
+#: .././inc/functions_custom.php:194
+msgid "Wed"
+msgstr ""
+
+#: .././inc/functions_custom.php:195
+msgid "Thu"
+msgstr ""
+
+#: .././inc/functions_custom.php:196
+msgid "Fri"
+msgstr ""
+
+#: .././inc/functions_custom.php:197
+msgid "Sat"
+msgstr ""
+
+#: .././inc/functions_custom.php:198
+msgid "Sun"
+msgstr ""
+
+#: .././inc/template_blog.php:1
+msgid "Latest Posts"
+msgstr ""
+
+#: .././inc/template_related_posts.php:3
+msgid "Related Posts"
+msgstr ""
+
+#: .././inc/template_review.php:16
+msgid "Our overall verdict"
+msgstr ""

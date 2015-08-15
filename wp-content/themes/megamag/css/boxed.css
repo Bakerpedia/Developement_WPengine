@@ -1,0 +1,70 @@
+#wrapper {
+	padding-top:30px; /** Maybe add an option in Appearance options to have padding around the wrapper? **/
+	padding-bottom:30px;
+	width:980px;
+	margin:0 auto;
+}
+#header-wrapper { 
+	/*-webkit-box-shadow: 0px 5px 16px rgba(15, 15, 15, 1);
+	-moz-box-shadow:    0px 5px 16px rgba(15, 15, 15, 1);
+	box-shadow:         0px 5px 16px rgba(15, 15, 15, 1);*/
+}
+#header-wrapper .container { 
+	padding-right:20px;
+	padding-left:20px;
+	width:940px;
+}
+#navigation-wrapper {
+	padding:0 20px 0 20px;
+}
+
+#navigation-wrapper .menu li.current_page_item, #navigation-wrapper .menu li.current-menu-item {
+	background:url(../images/navigation-active.png) repeat-x;
+	padding:0 20px 0 20px;
+	margin-right:20px;
+	margin-left:-20px;
+}
+
+#navigation-wrapper .menu li:first-child.current_page_item, #navigation-wrapper .menu li:first-child.current-menu-item {
+	margin-left:-20px;
+}
+
+#navigation-wrapper .menu li:first-child {
+	margin-left:0;
+}
+
+#navigation-wrapper .menu li ul li:first-child.current_page_item {
+	margin-left:0;
+}
+
+
+#navigation-wrapper .menu li:first-child:hover {
+	margin-left:-20px;
+}
+
+#navigation-wrapper .menu li:hover { 
+	background:url(../images/navigation-active.png) repeat-x;
+	padding:0 20px 0 20px;
+	margin-right:20px;
+	margin-left:-20px;
+}
+
+#navigation-wrapper .menu li ul li:hover {
+		background: rgb(244, 244, 244);
+		background: -moz-linear-gradient(90deg, rgb(244, 244, 244) 100%, rgb(244, 244, 244) 100%);
+		background: -webkit-linear-gradient(90deg, rgb(244, 244, 244) 100%, rgb(244, 244, 244) 100%);
+		background: -o-linear-gradient(90deg, rgb(244, 244, 244) 100%, rgb(244, 244, 244) 100%);
+		background: -ms-linear-gradient(90deg, rgb(244, 244, 244) 100%, rgb(244, 244, 244) 100%);
+		background: linear-gradient(90deg, rgb(244, 244, 244) 100%, rgb(244, 244, 244) 100%);
+		padding:0 0 0 12px;
+		margin-right:0;
+		margin-left:0;
+	}
+	
+#navigation-wrapper .menu li ul li:first-child:hover {
+		margin:0;
+	}
+	
+#navigation-wrapper .menu li ul li:first-child.current_page_item, #navigation-wrapper .menu li ul li:first-child.current-menu-item {
+	margin-left:0;
+}

@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MEGAMAG v1.1\n"
+"POT-Creation-Date: 2013-01-21 18:19+0100\n"
+"PO-Revision-Date: 2013-01-21 18:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: Boostdevelopers <boostdevelopers@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././archive_template.php:11
+msgid "Browsing Category"
+msgstr "Περιηγηση στην Κατηγορια"
+
+#: .././archive_template.php:15
+msgid "Browsing Tag"
+msgstr "Περιηγηση στην Ετικετα"
+
+#: .././archive_template.php:19
+msgid "Search Results For"
+msgstr "Αποτελεσματα Αναζητησης για"
+
+#: .././archive_template.php:23
+msgid "Browsing Author"
+msgstr "Περιηγηση στον Αρθρογραφο"
+
+#: .././archive_template.php:27
+msgid "Browsing"
+msgstr "Περιηγηση"
+
+#: .././archive_template.php:28
+msgid "Unknown"
+msgstr "Αγνωστο"
+
+#: .././archive_template.php:59 .././inc/template_blog.php:22
+#: .././inc/template_main_1_column.php:27
+#: .././inc/widget_megamag_main_2column.php:65
+#: .././inc/widget_megamag_main_2column.php:160
+msgid "Score"
+msgstr "Βαθμολογια"
+
+#: .././archive_template.php:75 .././inc/template_blog.php:38
+#: .././inc/template_main_1_column.php:44
+#: .././inc/widget_megamag_main_2column.php:82
+#: .././inc/widget_megamag_main_2column.php:176
+msgid "Read More"
+msgstr "Περισσότερα"
+
+#: .././comments.php:7
+msgid "No comments"
+msgstr "Χωρις σχολια"
+
+#: .././comments.php:7
+msgid "1 Comment"
+msgstr "1 Σχολιο"
+
+#: .././comments.php:7 .././inc/widget_megamag_nomain_sidebar_tab.php:22
+msgid "Comments"
+msgstr "Σχολια"
+
+#: .././fullwidth.php:50 .././page.php:45 .././single.php:150
+msgid "Sorry, no posts matched your criteria."
+msgstr "Λυπούμαστε, καμία ανάρτηση δεν ταίριαξε με τα κριτήρια σας."
+
+#: .././functions.php:270
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: .././functions.php:271
+msgid "Reply"
+msgstr "Απάντηση"
+
+#: .././functions.php:276 .././inc/widget_megamag_nomain_sidebar_tab.php:21
+msgid "Popular"
+msgstr "Δημοφιλη"
+
+#: .././searchform.php:3 .././inc/widget_megamag_nomain_sidebar_search.php:5
+msgid "Search here..."
+msgstr "Αναζήτηση εδώ..."
+
+#: .././single.php:91 .././inc/widget_megamag_nomain_sidebar_tab.php:23
+msgid "Tags"
+msgstr "Ετικετες"
+
+#: .././single.php:124
+msgid "About the Author"
+msgstr "Σχετικά με τον Αρθρογράφο"
+
+#: .././inc/functions_custom.php:158
+msgid "January"
+msgstr "Ιανουάριος"
+
+#: .././inc/functions_custom.php:159
+msgid "February"
+msgstr "Φεβρουάριος"
+
+#: .././inc/functions_custom.php:160
+msgid "March"
+msgstr "Μάρτιος"
+
+#: .././inc/functions_custom.php:161
+msgid "April"
+msgstr "Απρίλιος"
+
+#: .././inc/functions_custom.php:162 .././inc/functions_custom.php:175
+msgid "May"
+msgstr "Μάιος"
+
+#: .././inc/functions_custom.php:163
+msgid "June"
+msgstr "Ιούνιος"
+
+#: .././inc/functions_custom.php:164
+msgid "July"
+msgstr "Ιούλιος"
+
+#: .././inc/functions_custom.php:165
+msgid "August"
+msgstr "Αύγουστος"
+
+#: .././inc/functions_custom.php:166
+msgid "September"
+msgstr "Σεπτέμβριος"
+
+#: .././inc/functions_custom.php:167
+msgid "October"
+msgstr "Οκτώβριος"
+
+#: .././inc/functions_custom.php:168
+msgid "November"
+msgstr "Νοέμβριος"
+
+#: .././inc/functions_custom.php:169
+msgid "December"
+msgstr "Δεκέμβριος"
+
+#: .././inc/functions_custom.php:171
+msgid "Jan"
+msgstr "Ιαν"
+
+#: .././inc/functions_custom.php:172
+msgid "Feb"
+msgstr "Φεβ"
+
+#: .././inc/functions_custom.php:173
+msgid "Mar"
+msgstr "Μαρ"
+
+#: .././inc/functions_custom.php:174
+msgid "Apr"
+msgstr "Απρ"
+
+#: .././inc/functions_custom.php:176
+msgid "Jun"
+msgstr "Ιούν"
+
+#: .././inc/functions_custom.php:177
+msgid "Jul"
+msgstr "Ιούλ"
+
+#: .././inc/functions_custom.php:178
+msgid "Aug"
+msgstr "Αυγ"
+
+#: .././inc/functions_custom.php:179
+msgid "Sep"
+msgstr "Σεπτ"
+
+#: .././inc/functions_custom.php:180
+msgid "Oct"
+msgstr "Οκτ"
+
+#: .././inc/functions_custom.php:181
+msgid "Nov"
+msgstr "Νοέ"
+
+#: .././inc/functions_custom.php:182
+msgid "Dec"
+msgstr "Δεκ"
+
+#: .././inc/functions_custom.php:184
+msgid "Monday"
+msgstr "Δευτέρα"
+
+#: .././inc/functions_custom.php:185
+msgid "Tuesday"
+msgstr "Τρίτη"
+
+#: .././inc/functions_custom.php:186
+msgid "Wednesday"
+msgstr "Τετάρτη"
+
+#: .././inc/functions_custom.php:187
+msgid "Thursday"
+msgstr "Πέμπτη"
+
+#: .././inc/functions_custom.php:188
+msgid "Friday"
+msgstr "Παρασκευή"
+
+#: .././inc/functions_custom.php:189
+msgid "Saturday"
+msgstr "Σάββατο"
+
+#: .././inc/functions_custom.php:190
+msgid "Sunday"
+msgstr "Κυριακή"
+
+#: .././inc/functions_custom.php:192
+msgid "Mon"
+msgstr "Δευ"
+
+#: .././inc/functions_custom.php:193
+msgid "Tue"
+msgstr "Τρι"
+
+#: .././inc/functions_custom.php:194
+msgid "Wed"
+msgstr "Τετ"
+
+#: .././inc/functions_custom.php:195
+msgid "Thu"
+msgstr "Πέμ"
+
+#: .././inc/functions_custom.php:196
+msgid "Fri"
+msgstr "Παρ"
+
+#: .././inc/functions_custom.php:197
+msgid "Sat"
+msgstr "Σαβ"
+
+#: .././inc/functions_custom.php:198
+msgid "Sun"
+msgstr "Κυρ"
+
+#: .././inc/template_blog.php:1
+#, fuzzy
+msgid "Latest Posts"
+msgstr "Σχετικες Αναρτησεις"
+
+#: .././inc/template_related_posts.php:3
+msgid "Related Posts"
+msgstr "Σχετικες Αναρτησεις"
+
+#: .././inc/template_review.php:16
+msgid "Our overall verdict"
+msgstr "Η ετυμηγορια μας"
